@@ -1,2 +1,5 @@
 # hello-world
-first repository
+
+Hello Humans!
+
+Pizza, thats why.
